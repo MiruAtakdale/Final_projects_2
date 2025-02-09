@@ -1,4 +1,4 @@
-# Final_projects_2
+# Final_projects_2 (discord: Miru K.)
 Four automated tests for the seznam.cz
 1. Homepage loads test
 2. Search functionality test
